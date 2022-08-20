@@ -107,6 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* changed class selector to id selector to match html doc changes */
 #footer {
     padding: 30px;
     clear: both;
