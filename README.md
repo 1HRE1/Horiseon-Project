@@ -14,3 +14,8 @@
 * Check all heading attributes and make sure they are in sequential order.
 
 * Check title element for concise descriptive title.
+
+## Deployment
+* Github: [HErwin Github Repository for Horiseon](https://1hre1.github.io/Horiseon-Project/)
+* Web link: [Click to view on web](https://1hre1.github.io/Horiseon-Project/)
+* Screenshot below:
