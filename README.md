@@ -18,4 +18,8 @@
 ## Deployment
 * Github: [URL of Github repository](https://github.com/1HRE1/Horiseon-Project)
 * Website: [URL of deployed application](https://1hre1.github.io/Horiseon-Project/)
-* Screenshot below:
+* Two screenshots of deployment below: 
+## SS#1
+![My Image](./assets/ss-1.png)
+## SS#2
+![My Image](./assets/ss-2.png)
