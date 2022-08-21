@@ -16,6 +16,6 @@
 * Check title element for concise descriptive title.
 
 ## Deployment
-* Github: [HErwin Github Repository for Horiseon](https://1hre1.github.io/Horiseon-Project/)
-* Web link: [Click to view on web](https://1hre1.github.io/Horiseon-Project/)
+* Github: [URL of Github repository](https://github.com/1HRE1/Horiseon-Project)
+* Website: [URL of deployed application](https://1hre1.github.io/Horiseon-Project/)
 * Screenshot below:
