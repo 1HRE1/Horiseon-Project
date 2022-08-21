@@ -23,3 +23,8 @@
 ![My Image](./assets/ss-1.png)
 ## Screenshot #2
 ![My Image](./assets/ss-2.png)
+
+![My Image](assets/SS-1.png)
+
+![My Image](https://github.com/1HRE1/Horiseon-Project/blob/9ad0ab711992aba3c9c573d651ddb45eda14cbfc/assets/SS-1.png)
+
